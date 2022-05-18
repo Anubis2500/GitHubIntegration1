@@ -7,5 +7,7 @@ public class Main {
         System.out.println("fourth line");
 
         System.out.println("completely new branch!");
+        System.out.println("bla");
+        System.out.println();
     }
 }
