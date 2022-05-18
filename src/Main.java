@@ -5,5 +5,7 @@ public class Main {
 
         System.out.println("third line");
         System.out.println("fourth line");
+
+        System.out.println("completely new branch!");
     }
 }
